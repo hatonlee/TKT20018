@@ -1,3 +1,3 @@
-# TKT20018 - ohjelmistotekniikka
-[*indolent*](https://github.com/hatonlee/indolent)
-[laskarit](/laskarit/)
+# TKT20018 - Excercises Repository
+Course Project: [*indolent*](https://github.com/hatonlee/indolent) <br>
+[Excercises](/excercises/)
