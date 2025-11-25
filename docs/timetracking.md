@@ -5,3 +5,4 @@
 |17.11.|1.0h|week 3 excercises|
 |18.11.|3.0h|week 3 excercises|
 |24.11.|2.5h|week 4 excercises|
+|total |6.0h|all excercises|
